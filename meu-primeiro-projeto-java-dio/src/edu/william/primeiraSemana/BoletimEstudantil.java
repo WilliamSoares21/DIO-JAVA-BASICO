@@ -1,4 +1,4 @@
-package edu.william.primeiraSemana;
+package edu.william.primeirasemana;
 public class BoletimEstudantil {
     public static void main(String[] args) {
         int mediaFinal = 7;
