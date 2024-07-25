@@ -17,6 +17,8 @@ public class AboutMe {
 
     System.out.println("Insira sua altura: ");
     double altura = scan.nextDouble();
+    
+    scan.close();
             
     
     /*String nome = args[0];
